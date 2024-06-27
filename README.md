@@ -1,4 +1,6 @@
 # emotiondetectionthroughspeech
+
+
 AOL project for Speech Recognition
 This project is primarily created by Audry Angelina Wijaya with assistance from Alika Kaylanisha.
 The dataset used is by CREMA-D as well as SAVEE dataset with 7 emotions as its classes ('angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise'), using both Kaggle and Colab to compile the code.
